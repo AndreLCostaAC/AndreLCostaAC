@@ -16,8 +16,11 @@
 ) ![Blog](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
 )
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLCostaAC&show_icons=true&theme=transparent)
+<div>
+<a href="https://github.com/AndreLCostaAC/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreLCostaAC&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLCostaAC&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 <!---
 AndreLCostaAC/AndreLCostaAC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
