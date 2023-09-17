@@ -17,9 +17,7 @@
 )
 
 
-![André GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLCostaAC&show_icons=true&theme=tokyonight)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLCostaAC&show_icons=true&theme=transparent)
 
 <!---
 AndreLCostaAC/AndreLCostaAC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
