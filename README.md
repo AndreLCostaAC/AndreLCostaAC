@@ -15,10 +15,11 @@
 ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 ) ![Blog](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
 )
-
-<div>
 <a href="https://github.com/AndreLCostaAC/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreLCostaAC&show_icons=true&theme=transparent"/><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLCostaAC&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+<a href="https://beacons.ai/AndreLCostaAC">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreLCostaAC&show_icons=true&theme=transparent"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLCostaAC&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <!---
